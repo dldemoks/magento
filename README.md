@@ -1,8 +1,8 @@
 Magento
 ======
-Модуль оплаты Payeer
+Payment module Payeer
 
-Для установки модуля скачайте и распакуйте архив.
-Далее следуйте прилагаемой инструкции
+To install the module, download all the files.
+Then follow the attached instructions.
 
-Поддерживаемая версия CMS Magento 1.9
+Support for CMS Magento 1.9
